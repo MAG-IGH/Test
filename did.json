@@ -1,0 +1,23 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1"
+  ],
+  "id": "did:web:raw.githubusercontent.com:MAG-IGH:Test:master",
+  "verificationMethod": [
+    {
+      "@context": "https://w3c-ccg.github.io/lds-jws2020/contexts/v1/",
+      "id": "did:web:raw.githubusercontent.com:MAG-IGH:Test:master#JWK2020-RSA",
+      "type": "JsonWebKey2020",
+      "publicKeyJwk": {
+        "kty": "RSA",
+        "e": "AQAB",
+        "kid": "ksLOiYcjz0xhkCPTNYHvMEHodJjH_xLQZoCFUoYMPa0",
+        "alg": "RS256",
+        "n": "rvAaBfOyHKPjfTfqT0Y5anp5j6yYxK1c6NnE6hD6VPjQm6RLc00SaZ5z8Po_yz85zNxtAaMQ4W0bx5PLSAHc3yCxPJs98weQvqtVESou5Jz0SPD4I8g4IDYEK0UumRMjSLI1CZ5fhGnmNYPFpovsG0wGc2kmEQQhANhdbBRihg88evkhlWxwnjXA7zug3z3PNQRp1wzKI4AY0FSqhEm379E_S3-NMP8MgvAqqlGTnq5UAyjvulXjMX8ac7L0Z5ebwIILrPItcvVH1PK46stW5-d28jgg0HVRqZyH1zjXwZGtiwjqN8OLxL82B4VHljvxI4EBROILqfpeSJjxttQ0Pw"
+      }
+    }
+  ],
+  "assertionMethod": [
+    "did:web:raw.githubusercontent.com:MAG-IGH:Test:master#JWK2020-RSA"
+  ]
+}
