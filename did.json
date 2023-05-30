@@ -1,3 +1,23 @@
 {
-
+  "@context": [
+    "https://www.w3.org/ns/did/v1"
+  ],
+  "id": "did:web:raw.githubusercontent.com:MAG-IGH:Test:main",
+  "verificationMethod": [
+    {
+      "@context": "https://w3c-ccg.github.io/lds-jws2020/contexts/v1/",
+      "id": "did:web:raw.githubusercontent.com:MAG-IGH:Test:main#JWK2020-RSA",
+      "type": "JsonWebKey2020",
+      "publicKeyJwk": {
+        "kty": "RSA",
+        "e": "AQAB",
+        "alg": "PS256",
+        "n": "gmPWClJ-2TKTuHxDa09MiCDoRQNV2OcSzWJch6ZJyBlpsU4HzAc0uR31KPN-0gavfqBwvqnAo2mjrLUf2A4JlMg0sMr8h2p5PW9-KEbRTWgtEuH6Sz8fpJ2yKZEV9p4E7xCkGzbcntw3N8bDbmDGq8eTB1-N2hL5BG9iV3rjksrZpuhroOkt-EHJaZmP4cIAgSshT_Ide0ehyZ6UY-vVVrJ7vGUDYbPlhtWELBm_hEW4qB2bEIKFuUnAv93ldykjRHdwkOOesRUcJ0Fn4fovw-eFEtzoRrGrv6yzh71JLR4nY5KKdgAg3rHV-qrWf4go2l0O9ZfSjJpy0FFllJWddQ"
+        "x5u": "https://raw.githubusercontent.com/MAG-IGH/Test/main/certificate.crt"
+      }
+    }
+  ],
+  "assertionMethod": [
+    "did:web:raw.githubusercontent.com:MAG-IGH:Test:main#JWK2020-RSA"
+  ]
 }
