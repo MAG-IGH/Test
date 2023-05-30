@@ -11,8 +11,9 @@
       "publicKeyJwk": {
         "kty": "RSA",
         "e": "AQAB",
+        "kid": "8Osyodo3ZXilIBrncVY6EEKqjhxndDfewJiiKFzWRPc",
         "alg": "PS256",
-        "n": "lX4OLfxKk7D797oPKMoPo3cp5o6DKCv2kOl5grGgR6y6WTAcGKwRFSps0axIkgiGbIexL0Zro5q068PClCuzjgOY7JNVcOifGsDpdukK13mnbIjzg5F2Jdwswg00bv1UJFP_CBG06l2fET0wkiGa-hbpE_9NAHZpZqeOQQG4HK7i5aTqd732CG1nPzbE-wDH4WtxdoGdFn0yw0VqOx0tfQZ96Kp8S4P-V3XwICFNy7jUhHygQLUQ7BRs_XZEBJ7PC5VZKGv1_n22ZEWOP73YtnMit1fx1ssFhSMvu8JFC-vARQI4Us9T4Oz5phxIFUrc5YmhUsF_FXgO-nI7A4OQFQ"
+        "n": "gmPWClJ-2TKTuHxDa09MiCDoRQNV2OcSzWJch6ZJyBlpsU4HzAc0uR31KPN-0gavfqBwvqnAo2mjrLUf2A4JlMg0sMr8h2p5PW9-KEbRTWgtEuH6Sz8fpJ2yKZEV9p4E7xCkGzbcntw3N8bDbmDGq8eTB1-N2hL5BG9iV3rjksrZpuhroOkt-EHJaZmP4cIAgSshT_Ide0ehyZ6UY-vVVrJ7vGUDYbPlhtWELBm_hEW4qB2bEIKFuUnAv93ldykjRHdwkOOesRUcJ0Fn4fovw-eFEtzoRrGrv6yzh71JLR4nY5KKdgAg3rHV-qrWf4go2l0O9ZfSjJpy0FFllJWddQ"
         "x5u": "https://raw.githubusercontent.com/MAG-IGH/Test/main/ertificate.crt"
       }
     }
