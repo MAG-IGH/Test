@@ -10,10 +10,10 @@
       "type": "JsonWebKey2020",
       "publicKeyJwk": {
         "kty": "RSA",
-        "n": "o3SgaQr5MyjWcRUCYGPp0P5dUDJw9VPRCGrwwdCiRQPe7zPf41hwEP-UhvJM1lHLr6H5uQInNxylXmooRPjbJ60xkSrNGLcjCyQxsZj3JorH3FjbUYmLoZBKH8WUn5u3lFpnySD4d2toz84aiWZPOkzmpaU2tfU5qUB9y-Urp7VVl_GDCDnubfOkzCpQEe_lCs0rRXT1yOeVqnof00pAywbq6xr4SFVln24lublFeiUrclH4u1tLq0EVoKrB7WCPvi7FbbEe0II1uUwfEDR90J60h6MOsqByijOmCSSWLTQyXX-UmZ_T-2aL646PJ2SKOhS8_OmVjLecn0j4X-LrOw",
         "e": "AQAB",
         "alg": "PS256",
-        "x5u": "https://raw.githubusercontent.com/egavard/payload-sign/master/certificate.crt"
+        "n": "lX4OLfxKk7D797oPKMoPo3cp5o6DKCv2kOl5grGgR6y6WTAcGKwRFSps0axIkgiGbIexL0Zro5q068PClCuzjgOY7JNVcOifGsDpdukK13mnbIjzg5F2Jdwswg00bv1UJFP_CBG06l2fET0wkiGa-hbpE_9NAHZpZqeOQQG4HK7i5aTqd732CG1nPzbE-wDH4WtxdoGdFn0yw0VqOx0tfQZ96Kp8S4P-V3XwICFNy7jUhHygQLUQ7BRs_XZEBJ7PC5VZKGv1_n22ZEWOP73YtnMit1fx1ssFhSMvu8JFC-vARQI4Us9T4Oz5phxIFUrc5YmhUsF_FXgO-nI7A4OQFQ"
+        "x5u": "https://raw.githubusercontent.com/MAG-IGH/Test/main/ertificate.crt"
       }
     }
   ],
