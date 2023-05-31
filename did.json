@@ -9,10 +9,10 @@
       "id": "did:web:raw.githubusercontent.com:MAG-IGH:Test:main#JWK2020-RSA",
       "type": "JsonWebKey2020",
       "publicKeyJwk": {
-        "kty": "RSA",
-        "e": "AQAB",
+        kty: "RSA",
+        n: "yzLiowIDgSnjZlDDe3HSPbV894FbX68pNCFwzzkQ-Xlp0OaEq8ecU1qrIBM_H9JEu1JMl7uGAkQaGgOHcW4JK9vVvLqEtUtwA_MqrDZ85QxZ0hcyQ3POUfi8a2cAHBA1oKCqxwvEObxIxgX3WUr7cFt8L0e_2I6JkKVu2V_u4rEhpqOea4MJsM3Awn668xFuwInKpop_c66XTQNL9Pi3VbWX9RZuyGGuMRrwjJEXeLc7IQTfYqRAfUYzbIpgBXscL0WPCUt3nBn1yRRj1DsrAh6XtN3H321mUWKOajFsxisLsvGfi0LbkbmxouVGJvbUlho_nSEvTvB_2id6rHJoyw",
+        e: "AQAB2",
         "alg": "PS256",
-        "n": "gmPWClJ-2TKTuHxDa09MiCDoRQNV2OcSzWJch6ZJyBlpsU4HzAc0uR31KPN-0gavfqBwvqnAo2mjrLUf2A4JlMg0sMr8h2p5PW9-KEbRTWgtEuH6Sz8fpJ2yKZEV9p4E7xCkGzbcntw3N8bDbmDGq8eTB1-N2hL5BG9iV3rjksrZpuhroOkt-EHJaZmP4cIAgSshT_Ide0ehyZ6UY-vVVrJ7vGUDYbPlhtWELBm_hEW4qB2bEIKFuUnAv93ldykjRHdwkOOesRUcJ0Fn4fovw-eFEtzoRrGrv6yzh71JLR4nY5KKdgAg3rHV-qrWf4go2l0O9ZfSjJpy0FFllJWddQ",
         "x5u": "https://raw.githubusercontent.com/MAG-IGH/Test/main/certificate.crt"
       }
     }
