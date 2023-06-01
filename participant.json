@@ -4,8 +4,7 @@
     "https://registry.lab.gaia-x.eu/development/api/trusted-shape-registry/v1/shapes/"
   ],
   "type": [
-    "VerifiableCredential",
-    "LegalPerson"
+    "VerifiableCredential"
   ],
   "id": "did:web:raw.githubusercontent.com:MAG-IGH:Test:main",
   "issuer": "did:web:raw.githubusercontent.com:MAG-IGH:Test:main",
