@@ -11,7 +11,7 @@
   "issuer": "did:web:raw.githubusercontent.com:MAG-IGH:Test:main",
   "issuanceDate": "2022-10-01T12:29:40.243Z",
   "credentialSubject": {
-    "id": "https://raw.githubusercontent.com/MAG-IGH/Test/main/certificate.crt",
+    "id": "https://raw.githubusercontent.com/MAG-IGH/Test/main/participant.crt",
     "gx-participant:legalName": "IGH Infotec Aktiengesellschaft",
     "gx-participant:registrationNumber": {
       "gx-participant:registrationNumberType": "EUID",
